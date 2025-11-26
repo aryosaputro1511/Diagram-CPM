@@ -1,1 +1,1 @@
-![Tampilkan Diagram CPM](cpm.svg)
+![Tampilkan Diagram CPM](cpm1.svg)
